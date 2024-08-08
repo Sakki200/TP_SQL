@@ -1,0 +1,1 @@
+Juste besoin de lancer les commande de './config/config.sql'
